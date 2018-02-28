@@ -13,7 +13,7 @@ namespace QRHere
 		{
 			InitializeComponent();
 
-			MainPage = new QRHere.MainPage();
+			MainPage = new MainPage();
 		}
 
 		protected override void OnStart ()
